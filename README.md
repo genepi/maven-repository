@@ -1,7 +1,7 @@
 # Our local Maven Repository
 
 This repo hosts all artifacts. 
-Currently it includes two libraries (genepi-hadoop and genepi-io) which are used in many of our projects.
+Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in many of our projects.
 
 ## Usage
 
