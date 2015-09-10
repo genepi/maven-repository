@@ -7,7 +7,7 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 
 - Add this to your repository part in your pom.xml:
 <myxml>
-<repository>
+		<repository>
 			<id>genepi-hadoop</id>
 			<url>https://raw.github.com/genepi/maven-repository/mvn-repo/</url>
 			<snapshots>
