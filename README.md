@@ -7,7 +7,7 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 
 - Add this to your repository part in your pom.xml:
 <myxml>
-	<repository>
+<repository>
 			<id>genepi-hadoop</id>
 			<url>https://raw.github.com/genepi/maven-repository/mvn-repo/</url>
 			<snapshots>
@@ -16,9 +16,10 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 			</snapshots>
 		</repository>
 
+
 		<repository>
 			<id>genepi-io</id>
-			<url>https://raw.github.com/genepi/maven/genepi-io</url>
+			<url>https://raw.github.com/genepi/maven-repository/genepi-io</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
@@ -34,6 +35,7 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 			<artifactId>genepi-io</artifactId>
 			<version>0.6.4</version>
 		</dependency>
+
 		<dependency>
 			<groupId>genepi-hadoop</groupId>
 			<artifactId>genepi-hadoop</artifactId>
