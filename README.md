@@ -6,6 +6,7 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 ## Usage
 
 - Add this to your repository part in your pom.xml:
+
 <myxml>
 		<repository>
 			<id>genepi-hadoop</id>
