@@ -1,4 +1,4 @@
-# Our local Maven Repository
+# Our local maven repository
 
 This repo hosts all artifacts. 
 Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in many of our projects. All artifacts are located in the mvn-repo branch
