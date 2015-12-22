@@ -34,12 +34,12 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 		<dependency>
 			<groupId>genepi</groupId>
 			<artifactId>genepi-io</artifactId>
-			<version>1.0</version>
+			<version>1.0.0</version>
 		</dependency>
-		<!--for Apache YARN -->
+		<!-- for usage with Apache YARN, otherwise use "mr1-1.0.0" for version tag -->
 		<dependency>
 			<groupId>genepi</groupId>
 			<artifactId>genepi-hadoop</artifactId>
-			<version>yarn-1.0</version>
+			<version>yarn-1.0.0</version>
 		</dependency>
 		</myxml>
