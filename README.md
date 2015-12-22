@@ -32,14 +32,14 @@ Currently it includes two libraries (genepi-hadoop; genepi-io) which are used in
 		
 		<myxml>
 		<dependency>
-			<groupId>genepi-io</groupId>
+			<groupId>genepi</groupId>
 			<artifactId>genepi-io</artifactId>
-			<version>0.6.4</version>
+			<version>1.0</version>
 		</dependency>
-
+		<!--for Apache YARN -->
 		<dependency>
-			<groupId>genepi-hadoop</groupId>
+			<groupId>genepi</groupId>
 			<artifactId>genepi-hadoop</artifactId>
-			<version>0.7.9</version>
+			<version>yarn-1.0</version>
 		</dependency>
 		</myxml>
