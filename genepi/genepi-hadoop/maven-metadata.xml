@@ -3,11 +3,11 @@
   <groupId>genepi</groupId>
   <artifactId>genepi-hadoop</artifactId>
   <versioning>
-    <release>yarn-1.0.0</release>
+    <release>mr1-1.0.0</release>
     <versions>
       <version>yarn-1.0.0</version>
       <version>mr1-1.0.0</version>
     </versions>
-    <lastUpdated>20151222103416</lastUpdated>
+    <lastUpdated>20160115113634</lastUpdated>
   </versioning>
 </metadata>
