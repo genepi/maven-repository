@@ -83,6 +83,11 @@
 			<artifactId>hadoop-client</artifactId>
 			<version>2.6.0-cdh5.4.9</version>
 		</dependency>
+			<dependency>
+			<groupId>org.apache.hadoop</groupId>
+			<artifactId>hadoop-yarn-client</artifactId>
+			<version>2.6.0-cdh5.4.9</version>
+		</dependency>
 		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
