@@ -10,6 +10,14 @@
 		<github.global.server>github</github.global.server>
 		<jdk.version>1.7</jdk.version>
 	</properties>
+	
+	    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>https://raw.githubusercontent.com/genepi/genepi-libs/master/genepi-hadoop/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
 	<repositories>
 		<repository>
