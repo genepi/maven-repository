@@ -114,14 +114,13 @@
 			<version>1.9</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/com.jcraft/jsch -->
+	<!-- https://mvnrepository.com/artifact/com.jcraft/jsch -->
 		<dependency>
 			<groupId>com.jcraft</groupId>
 			<artifactId>jsch</artifactId>
-			<version>0.1.52</version>
+			<version>0.1.42</version>
 		</dependency>
-
-
+		
 	</dependencies>
 
 
