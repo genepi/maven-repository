@@ -3,12 +3,13 @@
   <groupId>genepi</groupId>
   <artifactId>genepi-io</artifactId>
   <versioning>
-    <release>1.0.9</release>
+    <release>1.0.10</release>
     <versions>
       <version>1.0.6</version>
       <version>1.0.8</version>
       <version>1.0.9</version>
+      <version>1.0.10</version>
     </versions>
-    <lastUpdated>20181206153147</lastUpdated>
+    <lastUpdated>20181206154326</lastUpdated>
   </versioning>
 </metadata>
