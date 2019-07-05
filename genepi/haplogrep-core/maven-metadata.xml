@@ -3,7 +3,7 @@
   <groupId>genepi</groupId>
   <artifactId>haplogrep-core</artifactId>
   <versioning>
-    <release>2.1.3</release>
+    <release>2.1.4</release>
     <versions>
       <version>2.0.11</version>
       <version>2.0.12</version>
@@ -13,7 +13,8 @@
       <version>2.1.0</version>
       <version>2.1.1</version>
       <version>2.1.3</version>
+      <version>2.1.4</version>
     </versions>
-    <lastUpdated>20190705163332</lastUpdated>
+    <lastUpdated>20190705170513</lastUpdated>
   </versioning>
 </metadata>
