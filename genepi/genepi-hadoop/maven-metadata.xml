@@ -3,10 +3,11 @@
   <groupId>genepi</groupId>
   <artifactId>genepi-hadoop</artifactId>
   <versioning>
-    <release>mr1-1.3.4</release>
+    <release>mr1-1.4.0</release>
     <versions>
       <version>mr1-1.3.4</version>
+      <version>mr1-1.4.0</version>
     </versions>
-    <lastUpdated>20190925102439</lastUpdated>
+    <lastUpdated>20200226093002</lastUpdated>
   </versioning>
 </metadata>
